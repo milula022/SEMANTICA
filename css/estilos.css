@@ -1,0 +1,23 @@
+/* esto es un comentario*/
+/* 
+Anatomia del CSS
+selector {
+    propiedas: valor;
+    propiedad: valor;
+}
+*/
+body{
+    color: #efefef;
+}
+h1{
+    color: #ffceff
+}
+p{
+    color: #5b5b5b;
+}
+dl{
+    color: black
+}
+a{
+    color: #4a1942;
+}
