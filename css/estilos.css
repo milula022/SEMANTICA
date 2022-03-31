@@ -7,10 +7,11 @@ selector {
 }
 */
 body{
-    color: #efefef;
+    color: #794B8C;
 }
 h1{
-    color: #ffceff
+    color: #431456;
+    background-color: #9772A6;
 }
 p{
     color: #5b5b5b;
@@ -19,5 +20,18 @@ dl{
     color: black
 }
 a{
-    color: #4a1942;
+    color: #9772A6;
+}
+h3{
+    color: #5E2B71;
+}
+table{
+    color: #000000;
+    background-color: #9772A6;
+}
+th{
+    background-color:#C0A6CA ;
+}
+td{
+    background-color: #9a6ea8;
 }
