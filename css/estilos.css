@@ -34,4 +34,16 @@ th{
 }
 td{
     background-color: #9a6ea8;
+    color: #FFE673;
+}
+hr{
+
+    color: #D7CBDA;
+}
+li{
+    color: #000000;
+}
+img{
+    width: 400px;
+    height: 400px;
 }
